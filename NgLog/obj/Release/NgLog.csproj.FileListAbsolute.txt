@@ -1,0 +1,6 @@
+D:\cscode\NgLog\NgLog\bin\Release\NgLog.dll
+D:\cscode\NgLog\NgLog\bin\Release\NgLog.pdb
+D:\cscode\NgLog\NgLog\obj\Release\NgLog.csprojAssemblyReference.cache
+D:\cscode\NgLog\NgLog\obj\Release\NgLog.csproj.CoreCompileInputs.cache
+D:\cscode\NgLog\NgLog\obj\Release\NgLog.dll
+D:\cscode\NgLog\NgLog\obj\Release\NgLog.pdb
